@@ -30,7 +30,7 @@ A big thank you to [our Backers](https://github.com/phalcon/cphalcon/blob/master
   - [Backers](#backers)
   - [License](#license)
 
-## Get Started
+## Get Started 
 
 Phalcon is written in [Zephir/C](https://zephir-lang.com/) with platform independence in mind.
 As a result, Phalcon is available on Microsoft Windows, GNU/Linux, FreeBSD and MacOS.
